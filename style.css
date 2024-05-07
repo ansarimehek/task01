@@ -1,0 +1,16 @@
+body{
+    background-color: chartreuse;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.form-group {
+    margin: 20px;
+}
+.center {
+    text-align: center;
+    margin: 20px ;
+}
+
