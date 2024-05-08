@@ -1,0 +1,25 @@
+.box1{
+    background-color: aquamarine ;
+    position: absolute;
+    height: 169px;
+    width: 210px;
+    top: 288px;
+    
+}
+
+.box2{
+    background-color: aqua;
+    position: relative;
+    height: 150px;
+    width: 210px;
+    top: 300px;
+}
+
+.box3{
+    background-image: url(photos/download.jpg);
+    position: fixed;
+    height: 237px;
+    width: 230px;
+    top: 289px;
+    right: 50px;
+}
