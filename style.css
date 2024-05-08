@@ -1,16 +1,43 @@
 body{
     background-color: chartreuse;
 }
-
-.h1 {
+.task{
+    margin: 200px 400px 20px 400px;
+}
+.center{
+    background-color: white;
+    border: 2px solid brown;
+    padding: 25px 25px 25px 25px;
     text-align: center;
+    border-radius: 10px;
+    border-style: groove;
+
+}
+.submit{
+    color: white;
+    width: 400px;
+    border-radius: 10px;
+    background-color: green;
+    letter-spacing: 1cap;
 }
 
-.form-group {
-    margin: 20px;
+.name{
+    width: 400px;
 }
-.center {
-    text-align: center;
-    margin: 20px ;
+
+.number{
+    width: 400px;
 }
+
+.email {
+    width: 400px;
+}
+.text{
+    width: 400px;
+}
+.e{
+    width: 400px;
+}
+
+
 
