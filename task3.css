@@ -1,0 +1,79 @@
+body{
+    background-image: url(photos/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.h1{
+    text-align: center;
+    text-decoration: solid;
+    color:white;
+}
+
+.aboutus{
+    background-color:whitesmoke ;
+    position: absolute;
+    /*height: 150px;
+    width: 180px;*/
+    top: 20px;
+    right: 220px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ourworks{
+    background-color:whitesmoke ;
+    position: absolute;
+    /*height: 150px;
+    width: 180px;*/
+    top: 20px;
+    right: 220px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.container1{
+    background-color:whitesmoke ;
+    position: absolute;
+    height: 150px;
+    width: 180px;
+    top: 289px;
+    right: 220px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.container2{
+    background-color:whitesmoke ;
+    position: absolute;
+    height: 150px;
+    width: 180px;
+    top: 282px;
+    right: 485px;px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.container3{
+    background-color:whitesmoke ;
+    position: absolute;
+    height: 150px;
+    width: 180px;
+    top: 282px;
+    left: 370px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.container4{
+    background-color:whitesmoke ;
+    position: absolute;
+    height: 150px;
+    width: 180px;
+    top: 282px;
+    left: 110px;
+    text-align: center;
+    border-radius: 10px;
+}
+
